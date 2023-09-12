@@ -1,4 +1,5 @@
-nombre:
-Franco Suarez Barraza
-email:
-francosuarezbarraza@gmail.com
+nombre: Franco Suarez Barraza
+email: francosuarezbarraza@gmail.com
+
+nombre: Pablo Salas Ferrari
+email: salasferraripablo@gmail.com
