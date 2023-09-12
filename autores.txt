@@ -1,2 +1,4 @@
+nombre:
 Franco Suarez Barraza
+email:
 francosuarezbarraza@gmail.com
